@@ -24,7 +24,8 @@ You may create a photo with google sheet on your own.
 
 ```
 1. Every functional work tuck into jpgtohex.py
-Now you can use it to compress any photo into below 100x100 pixels (because I used thumbnail instead of resize function).
+Now you can use it to compress any photo into below 100x100 pixels 
+(because I used thumbnail instead of resize function).
 
 And then turn rgb color into hex code and save into example.csv file.
 ```
@@ -55,19 +56,23 @@ expect to add:
 
 1. Flexible Renamer and auto-compress img to 300pixel *.jpg files.
 
-2.I've add define function called search() to flexibly seach the current path and find out all image file. Then doing the image processing.
+2.I've add define function called search() to flexibly 
+   seach the current path and find out all image file. Then doing the image processing.
 
 3. I could use glob() to do large numners of image files processing
 
-4. the csv file should be printed out, add number to remember the file or just as the name of the image but *.csv file format.
+4. the csv file should be printed out, add number to remember the file 
+    or just as the name of the image but *.csv file format.
 
 ```
 <h2 id="expect" align="center">Expect work</h3>
 
 ```
-Now I finish the phototype of this work. I'd like to change some code from user-define ISA. Unlimit the upload photo size.
+Now I finish the phototype of this work. I'd like to change some code from user-define ISA. 
+Unlimit the upload photo size.
 
-And also, I need some time to read the google user-define ISA and js. I think the author's work is a nice prototye to learn.
+And also, I need some time to read the google user-define ISA and js. 
+I think the author's work is a nice prototye to learn.
 
 ```
 
