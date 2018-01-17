@@ -40,7 +40,8 @@ And then turn rgb color into hex code and save into example.csv file.
 2. compress.py
 3. aitkinson.py
 
-From now on, I only use jpgtohex.py as main python file. All the others file are just test some function work. So I mainly introduce jpgtohex.py
+From now on, I only use jpgtohex.py as main python file. 
+All the others file are just test some function work. So I mainly introduce jpgtohex.py
 
 As what I write above, I transform the photo into 'RGB' type to prevent some mistakes.
 
